@@ -1,0 +1,36 @@
+<style>
+
+    p {color:rgb(10, 4, 2); line-height: 1.5em;}
+
+    h1 {color: rgb(247, 10, 57); 
+      text-align: center;  
+      text-decoration: underline;            
+      background: rgb(255, 255, 0);
+      padding: 15px;
+      width: 500px;
+      position: relative; }
+     
+    h2 {color: rgb(243, 42, 10 );  background: rgb(174, 189, 187);  padding: 6px;}
+      
+  #comidas { background: rgb(230, 230, 230); width: 50%;   }
+ #lugares { background: rgb(204, 255, 229);   width: 100%; }
+
+ #img {             float: left;  margin-right: 20px;
+            margin-bottom: 20px;     }
+      
+body { font-family: "Helvetica", sans-serif;        }
+      
+ #cancion {    background: rgb(230, 230, 250);
+            width: 100%;
+            height: 280px;
+            overflow-y: auto;
+            overflow-x: hidden;  
+            text-align: center;} 
+      
+.photo {     width: 100px;border: 4px ridge red;margin: 15px 25px 10px 10px;   }
+
+.inicio { background: rgb(230, 230, 250); border: 5px solid orange;  text-align: center;   padding: 6px;  }
+
+a:hover, a:active, a:focus {     background-color: rgb(103, 209, 202);            }  
+
+        </style>
